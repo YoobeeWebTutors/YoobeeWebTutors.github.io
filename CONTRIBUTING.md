@@ -1,0 +1,14 @@
+[![N|Solid](images/yoobee-logo-300w.png)](http://yoobee.ac.nz)
+
+# Contribute
+
+## Documentation
+
+When contributing to the documentation resources, please think about the following for the best practice statements:
+
+* Keep it lean. Use concise statements
+* Keep it instructional. Start with a verb
+* Keep it relevant. Try to order the best practices by most important to least (but this isn't a hard rule). Leave anything trivial out
+* Have fun!
+
+
